@@ -1,0 +1,11 @@
+[haproxy]
+haproxy
+
+[webservers]
+devA
+devB
+devC
+
+[all:vars]
+ansible_user=ubuntu
+
